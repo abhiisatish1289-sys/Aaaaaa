@@ -20,6 +20,8 @@ VALID_API_KEYS = {
 }
 
 # 🔢 Like limit tracking
+daily_limit = 20
+used_count = 0
 
 
 def load_tokens(region):
